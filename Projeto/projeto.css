@@ -11,8 +11,8 @@ header {
   position: relative;
   z-index: 2;
   display: flex;
-  justify-content: space-between; /* Alinha os elementos ao redor do espaço disponível */
-  align-items: center; /* Alinha os itens verticalmente ao centro */
+  justify-content: space-between;
+  align-items: center;
 }
 
 h1 {
