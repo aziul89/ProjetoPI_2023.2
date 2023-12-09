@@ -1,6 +1,6 @@
-O projeto chama-se Acesso PE, que tem o intuito de evidenciar a acessibilidade nas escolas de Pernambuco. 
-Com isso, foi criado o site Acesso PE que apresenta na tela inicial um mapa de Pernambuco dividido em suas 5 mesorregiões.
-Cada mesorregião apresenta as informações referentes aos seguintes dados: Presença de elevador; Presença de corrimão; Presença de rampas e Quantidade de salas acessíveis.
+O projeto, Acesso PE, tem o intuito de evidenciar a acessibilidade nas escolas de Pernambuco. 
+Com isso, foi criado o site "Acesso PE" que apresenta na tela inicial um mapa de Pernambuco dividido em suas 5 mesorregiões.
+Cada mesorregião apresenta as informações referentes aos seguintes dados: Número de municípios; Número de registros de escolas; Presença de elevador; Presença de corrimão; Presença de rampas e Quantidade de salas acessíveis.
 Para saber mais sobre o projeto, basta clicar no botão "Sobre" dentro do site.
 
 O projeto foi criado pelos estudantes: Ana Beatriz Melo, Maria Julia Alexandre, Maria Luiza Farias, Salmo Thélio e Welliana.
