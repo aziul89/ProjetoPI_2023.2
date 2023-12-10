@@ -5,6 +5,7 @@ Para saber mais sobre o projeto, basta clicar no botão "Sobre" dentro do site.
 O projeto foi criado pelos estudantes: Ana Beatriz Melo, Maria Julia Alexandre, Maria Luiza Farias, Salmo Thélio e Welliana Carvalho.
 
 Documentação:
+> [Documentação-Dashboard.docx](https://github.com/aziul89/ProjetoPI_2023.2/files/13629566/Documentacao-Dashboard.docx)
 > [Minimundo.docx](https://github.com/aziul89/ProjetoPI_2023.2/files/13625650/Minimundo.docx)
 > [Modelo Físico ER.pdf](https://github.com/aziul89/ProjetoPI_2023.2/files/13625652/Modelo.Fisico.ER.pdf)
 > [Modelo Conceitual ER.pdf](https://github.com/aziul89/ProjetoPI_2023.2/files/13625651/Modelo.Conceitual.ER.pdf)
